@@ -104,9 +104,6 @@ The most satisfying part was seeing the website actually load from the EC2 publi
 
 ---
 
-## 📸 Screenshots
-
-[Screenshots added via GitHub web upload]
 
 ---
 
